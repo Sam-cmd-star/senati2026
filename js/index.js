@@ -1,0 +1,1 @@
+alert("Bienvenido al Proyecto SENATI - 2026");
